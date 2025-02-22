@@ -1,3 +1,5 @@
+https://img.shields.io/badge/code-python-red https://img.shields.io/badge/code-python-red 
+
 # Movie Recommender System
 
 ## Overview
