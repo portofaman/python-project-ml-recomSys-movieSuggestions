@@ -52,6 +52,10 @@ streamlit run app.py
 - The `fetch_poster(movie_id)` function retrieves movie posters using the **TMDb API**.
 - Posters are displayed along with movie names in the Streamlit UI.
 
+### **4. Feel of the WebApp**
+![image](https://github.com/user-attachments/assets/9125aa3e-d3fb-42fa-987d-d6b4600bbd76)
+
+
 ## Usage
 1. Select a movie from the dropdown.
 2. Click **'Give recommendations'**.
@@ -64,7 +68,4 @@ streamlit run app.py
 
 ## License
 This project is open-source and available under the **MIT License**.
-
-## Contact
-For any issues, feel free to reach out or raise a GitHub issue!
 
