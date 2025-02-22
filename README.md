@@ -57,12 +57,6 @@ streamlit run app.py
 2. Click **'Give recommendations'**.
 3. View the **recommended movies and posters**.
 
-## Example Output
-| Recommended Movie | Poster |
-|------------------|--------|
-| Interstellar | ![poster](https://image.tmdb.org/t/p/w500/sample.jpg) |
-| Inception | ![poster](https://image.tmdb.org/t/p/w500/sample.jpg) |
-
 ## Future Improvements
 - Add **hybrid filtering** (content + collaborative recommendations).
 - Implement **user-based recommendations**.
