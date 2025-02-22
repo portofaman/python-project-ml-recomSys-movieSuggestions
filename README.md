@@ -1,4 +1,4 @@
-https://img.shields.io/badge/code-python-red https://img.shields.io/badge/code-python-red 
+![Static Badge](https://img.shields.io/badge/code-python-red) ![Static Badge](https://img.shields.io/badge/web_ui-streamlit-blue)
 
 # Movie Recommender System
 
