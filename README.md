@@ -11,6 +11,7 @@ This is a **Movie Recommender System** built using **Streamlit** for the fronten
 - Fetches and displays **movie posters** using TMDb API.
 - Uses **precomputed similarity scores** for recommendations.
 - Simple and interactive **Streamlit UI**.
+  
 
 ## Tech Stack
 - **Python** (Main programming language)
