@@ -1,4 +1,3 @@
-
 ![Static Badge](https://img.shields.io/badge/code-python_3.12-red) ![Static Badge](https://img.shields.io/badge/web_ui-streamlit_1.42.2-blue)
 
 # Movie Recommender System
